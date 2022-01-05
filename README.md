@@ -1,1 +1,1 @@
-ECHO is on.
+Deployed URL https://siva-quotes.netlify.app/
